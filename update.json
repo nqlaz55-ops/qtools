@@ -3,8 +3,3 @@
   "release_notes": "Test tính năng cập nhật",
   "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/QTools_1.3.0.rbz"
 }
-request.start do |req, res|
-  if res.status_code == 200
-    puts "Nội dung nhận được: #{res.body}" # Dòng này sẽ in ra Console của SketchUp (Window > Ruby Console)
-    data = JSON.parse(res.body)
-    # ...
