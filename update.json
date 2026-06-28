@@ -1,7 +1,7 @@
 {
   "latest_version": "1.3.8",
   "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.3.8.rbz",
-  "release_notes": "- Vá lỗi hiển thị icon\n- Xóa tính năng xóa line thừa: không cần thiết vì tương tự như fixlt101 nhưng fixlt101 ổn đinh hơn\n- Bổ sung tính năng xóa tường ẩn: Có thể xóa nhanh các tường ẩn (các mặt phẳng nằm bên trong đối tượng, thường đc tạo ra do lệnh extrude dư)\n- Sửa lỗi xoay về mặc đinh trong menu chuột phải, trong tranform panel: từ giờ sẽ giữ nguyên tỷ lệ scale của đôi tượng khi sử dụng lệnh này\n- Nâng cấp và sửa lỗi tính năng Auto Dimm: bổ sung nhiều style Dimm khác nhau, sửa lỗi tính năng nối tia khiên dimm chạy loạn",
+  "release_notes": "- Vá lỗi hiển thị icon\n- Loại bỏ tính năng xóa line thừa: không cần thiết vì tương tự như fixlt101 nhưng fixlt101 ổn đinh hơn\n- Bổ sung tính năng xóa tường ẩn: Có thể xóa nhanh các tường ẩn dư nàm âm bên trong đối tượng\n- Sửa lỗi phá vỡ tỷ lệ scale khi dùng xoay về mặc đinh trong menu chuột phải, transform panel\n- Auto Dimm: bổ sung nhiều style Dimm khác nhau, sửa lỗi tính năng nối tia khiên dimm chạy loạn",
   "banned_hwids": [
     "ABC1234",
     "XYZ9876"
