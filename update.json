@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.3.9",
+  "latest_version": "1.3.8",
   "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools1.3.9.rbz",
   "release_notes": "Cập nhật: \n - Auto Dimm: Sửa lỗi nhân bản C-Point khi sử dụng tính năng Nối tia dimm. Bổ sung tính năng dọn dẹp C-Point \n - Bổ sung công cụ UV Pro: Tính toán mặt trải, trải UV chuẩn liền mặt cho các mặt phẳng cong. Chính xác, liền mạch bất chấp đường cong có đều hay không.",
   "banned_hwids": [
