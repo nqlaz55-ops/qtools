@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.3.9",
-  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.4.0.rbz",
-  "release_notes": "Cập nhật:\n - Cải thiện hiệu năng tính năng UV Pro, ghi nhớ thuộc tính và giảm lag khi bấm vào các đối tượng nhiều lưới",
+  "latest_version": "1.4.1",
+  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/QTools_1.4.1.rbz",
+  "release_notes": "Cập nhật:\n - Cải thiện hiệu năng tính năng UV Pro, ghi nhớ thuộc tính.",
   "banned_hwids": [
     "ABC1234",
     "XYZ9876"
