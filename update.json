@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.4.2",
-  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.4.2_2.rbz",
-  "release_notes": "Cập nhật:\n - Cải thiện hiệu năng tính năng UV Pro, ghi nhớ thuộc tính, giảm lag khi bấm vô đối tượng phức tạp.",
+  "latest_version": "1.4.3",
+  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.4.3.rbz",
+  "release_notes": "Cập nhật:\n - Bổ sung tính năng SVG Import: thay vì sử dụng file DWG để import vector phải thêm nhiều điểm để tránh biến dạng shape thì có thể import với file SVG không cần thêm điểm, file cực nhẹ và mượt",
   "banned_hwids": [
     "ABC1234",
     "XYZ9876"
