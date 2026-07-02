@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.4.5",
-  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.4.5.rbz",
+  "latest_version": "1.4.4",
+  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.4.4.rbz",
   "release_notes": "Cập nhật:\n - Bổ sung tính năng Bút Thần: vẽ path thần sầu\n- Bổ sung tính năng Gizmo: tạo trục xoay, di chuyển, scale tương tự 3dsmax\n- Re layout lại tất cả panel tính năng, tối ưu hiệu năng chống crash",
   "banned_hwids": [
     "ABC1234",
