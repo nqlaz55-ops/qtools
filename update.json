@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.4.8",
-  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.4.8.rbz",
-  "release_notes": "Nâng Cấp SVG Importer, sửa lỗi khi import file compund path",
+  "latest_version": "1.4.9",
+  "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/Qtools_1.4.9.rbz",
+  "release_notes": "Bổ sung tính năng áp đối tượng lên bề mặt bất kỳ",
   "banned_hwids": [
     "ABC1234",
     "XYZ9876"
