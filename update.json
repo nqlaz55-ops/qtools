@@ -3,7 +3,7 @@
   "manifest": {
     "product": "QTools",
     "latest_version": "1.5.2",
-    "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/QTools_v1.5.2_Secure_Offline.rbz",
+    "download_url": "https://raw.githubusercontent.com/nqlaz55-ops/qtools/refs/heads/main/QTools_v1.5.2_Secure_Offline_Security_Update.rbz",
     "download_sha256": "a284bd686624392b3979ffc05dfc69c07a836091fd9d95f616ffe657be998bbb",
     "release_notes": "Tăng bảo mật cập nhật, bổ sung nhiều tính năng mới (lập file BVKT sơ bộ, Scatter)",
     "published_at": "2026-07-15T00:00:00+07:00",
